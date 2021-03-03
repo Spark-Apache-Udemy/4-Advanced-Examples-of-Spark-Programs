@@ -9,7 +9,7 @@
 
 <a name="schema1"></a>
 
-# 1. Broadcast varialbes
+# 1. Broadcast variables
 `popular-movies-nice-dataframe.py`
 Las variables difundidas (conocidas en la terminología inglesa como broadcast variables) permiten guardar una variable de solo lectura en cada máquina, sin necesidad de enviar una copia de esta cada vez que se envíe una tarea al nodo. 
 
